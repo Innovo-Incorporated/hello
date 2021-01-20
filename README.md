@@ -1,1 +1,1 @@
-# school-network-hack
+# hello school
